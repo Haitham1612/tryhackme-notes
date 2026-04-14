@@ -17,9 +17,6 @@ This module gave a broad introduction to cyber security — covering both the of
 - Difference between threat, vulnerability, and risk
 - Red team vs blue team approaches
 
-## Screenshots
-[Add your screenshots here]
-
 ## Reflections
 This module helped me understand the bigger picture and confirmed I want to focus on defensive work first. It also showed me how much there is to learn.
 
